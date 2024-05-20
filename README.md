@@ -5,4 +5,4 @@ Without the watercooled vz-hextrudort it's recommended to use chube air. This re
 
 This toolhead is untested as I don't have a vzbot.
 
-[Chube toolhead](Vzbot_Chube.png)
+![Chube toolhead](Vzbot_Chube.png)
